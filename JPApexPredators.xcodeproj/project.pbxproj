@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3F9E43CD2D97194C00C5B904 /* JPApexPredators.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JPApexPredators.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F9E43CD2D97194C00C5B904 /* JPApexPredators.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = JPApexPredators.app; path = "/Users/albertolemos/repositories/curso swift/JPApexPredators/build/Debug-iphoneos/JPApexPredators.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				3F9E43CF2D97194C00C5B904 /* JPApexPredators */,
-				3F9E43CE2D97194C00C5B904 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		3F9E43CE2D97194C00C5B904 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				3F9E43CD2D97194C00C5B904 /* JPApexPredators.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 3F9E43C42D97194C00C5B904;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3F9E43CE2D97194C00C5B904 /* Products */;
+			productRefGroup = 3F9E43C42D97194C00C5B904;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -268,7 +259,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.albertolemos.JPApexPredators;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -297,7 +288,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.albertolemos.JPApexPredators;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
